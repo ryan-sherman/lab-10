@@ -1,6 +1,8 @@
 # lab-10
 lab 10 intro to open source
 
+Working with Moorthy!
+
 We got blink working on the arduino board
 
 We have the LCD displaying "Hello World"
